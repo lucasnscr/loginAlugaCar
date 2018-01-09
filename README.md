@@ -1,5 +1,5 @@
-# loginAlugaCar
+# LoginAlugaCar
 
-Login com token Java, Spring e OAUTH2
+Login construído com token
 
-Java 8, spring, rest, json, jpa, spring data.
+Java 8, Spring, Apache Oltu, Spring MVC, Rest, JPA e Spring Data.
